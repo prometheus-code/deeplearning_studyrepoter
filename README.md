@@ -1,3 +1,3 @@
 # deeplearning_studyrepoter
 
-![](http://htmlpreview.github.io/master/感知机.html)
+![感知机笔记](http://htmlpreview.github.io/master/感知机.html)
